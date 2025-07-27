@@ -18,4 +18,4 @@ def play_game():  #
     print(winner)
 
 if __name__ == "__main__":
-    play_gamer()
+    play_game()
